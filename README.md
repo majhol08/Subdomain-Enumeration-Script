@@ -12,6 +12,8 @@ This is a bash script that uses three tools: assetfinder, subfinder,sublist3r, t
 **Usage**: To use this script, you need to have assetfinder, subfinder, sublist3r, and httpx installed on your system. You can run the script by passing a domain name as an argument, like this:
 
 ```bash
+
+ chmod +x MX8.sh
 ./MX8.sh example.com
 ```
 
